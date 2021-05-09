@@ -1,5 +1,6 @@
 //var api = 'https://remotenode.bbscoin.click';
-var api = 'https://explorer.bbscoin.click/api';
+//var api = 'https://explorer.bbscoin.click/api';
+var api = 'https://explorer-api.bbscoin.click/api';
 var blockTargetInterval = 120;
 var coinUnits = 100000000;
 var symbol = 'BBS';
