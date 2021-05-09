@@ -4,7 +4,7 @@ var api = 'https://explorer-api.bbscoin.click/api';
 var blockTargetInterval = 120;
 var coinUnits = 100000000;
 var symbol = 'BBS';
-var refreshDelay = 30000;
+var refreshDelay = 5000;
 var networkStat = {
     'bbs': [
 		['pool.bbscoin.click', 'https://explorer.bbscoin.click'],
